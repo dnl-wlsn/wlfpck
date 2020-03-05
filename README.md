@@ -1,3 +1,3 @@
 # wlfpck
 
-PT, nutritionist, and gym finder. 
+Personal trainer finder, nutritionist finder, gym finder, and shop.
